@@ -91,7 +91,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Season Park Apartment 607",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,

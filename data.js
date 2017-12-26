@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-img_20171226_152914",
-      "name": "IMG_20171226_152914",
+      "id": "0-bedroom",
+      "name": "Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -24,30 +24,30 @@ var APP_DATA = {
       ],
       "faceSize": 1728,
       "initialViewParameters": {
-        "yaw": 3.0859204178729147,
-        "pitch": 0.3691047655031774,
+        "yaw": -0.019040359802373175,
+        "pitch": 0.08538990843730332,
         "fov": 1.283603139734972
       },
       "linkHotspots": [
         {
-          "yaw": -3.119473946204348,
-          "pitch": 0.5458315664653046,
+          "yaw": 3.118771572807761,
+          "pitch": 0.28444648066619393,
           "rotation": 0,
-          "target": "1-img_20171226_152921"
+          "target": "1-kitchen"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 3.0859204178729147,
-          "pitch": 0.3691047655031774,
+          "yaw": 3.12620545699437,
+          "pitch": 0.5881267119879823,
           "title": "Kitchen",
           "text": "Text"
         }
       ]
     },
     {
-      "id": "1-img_20171226_152921",
-      "name": "IMG_20171226_152921",
+      "id": "1-kitchen",
+      "name": "Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -69,33 +69,33 @@ var APP_DATA = {
       ],
       "faceSize": 1728,
       "initialViewParameters": {
-        "yaw": -0.07927956045189433,
-        "pitch": -0.047429352328894225,
+        "yaw": 3.0123266292568527,
+        "pitch": 0.29839752357970895,
         "fov": 1.283603139734972
       },
       "linkHotspots": [
         {
-          "yaw": 0.06431062697900813,
-          "pitch": 0.37641012626031234,
+          "yaw": 0.027404732436862034,
+          "pitch": 0.2179946019815251,
           "rotation": 0,
-          "target": "0-img_20171226_152914"
+          "target": "0-bedroom"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.005587880923247468,
-          "pitch": 0.3575103288489281,
+          "yaw": 0.02228016612861694,
+          "pitch": -0.15480669062339558,
           "title": "Bedroom",
           "text": "Text"
         }
       ]
     }
   ],
-  "name": "William Bedroom",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };

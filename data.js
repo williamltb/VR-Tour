@@ -68,6 +68,12 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
+          "yaw": -3.1111474563999657,
+          "pitch": 0.3077676010775079,
+          "rotation": 0,
+          "target": "2-restroom"
+        },
+        {
           "yaw": 1.6171668600566118,
           "pitch": 0.3133943650317619,
           "rotation": 0,
@@ -117,7 +123,7 @@ var APP_DATA = {
   ],
   "name": "Kanvas Soho",
   "settings": {
-    "mouseViewMode": "qtvr",
+    "mouseViewMode": "drag",
     "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
